@@ -1,0 +1,50 @@
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    height: 8%;
+}
+.content {
+    height: 92%;
+    width: 100%;
+}
+
+.content-login {
+    margin-top: 150px;
+}
+
+.github-text {
+    color: black;
+}
+
+.title {
+    margin-top: 70px;
+}
+
+.form-login {
+    width: 300px;
+    height: 35%;
+}
+
+.form-card {
+    margin-top: 200px;
+}
+
+.form {
+    width: 300px;
+}
+
+.marginT-30 {
+    margin-top: 30px;
+}
+
+.width-150 {
+    width: 150px;
+}
+
+.modal { 
+    height: 200px;
+}
+
